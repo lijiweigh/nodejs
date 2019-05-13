@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/lijiweigh/nodejs#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "axios": "^0.18.0",
+    "bluebird": "^3.5.4",
+    "express": "^4.16.4",
+    "iconv-lite": "^0.4.24",
+    "request": "^2.88.0",
+    "superagent": "^5.0.5"
   }
 }
